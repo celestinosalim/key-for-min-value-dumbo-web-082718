@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   if name_hash.length <= 0
   nil
-end
+
 else
   min_key = ""
   min_value = 0
